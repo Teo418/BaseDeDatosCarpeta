@@ -1,0 +1,17 @@
+insert into Ingresos value (1,2,3,'2024-09-04',14);
+insert into Ingresos value (2,2,3,'2023-01-04',13);
+insert into Ingresos value (3,2,3,'2024-02-04',12);
+insert into Ingresos value (4,2,3,'2024-06-04',11);
+insert into Médicos value (155,"Pepito","Gonzalez",1193473,"Traumatologo",1);
+insert into Médicos value (1434,"Pepo","Ferndandez",5413473,"Cirujano",3);
+insert into Médicos value (132423,"Pepe","Estevez",119355473,"Traumatologo",2);
+insert into Médicos value (19887,"Pepi","Alves",119883473,"Instrumentador",4);
+insert into Pacientes value (14,"valen","venier","olazabal 123","Capital Federal","Buenos Aires",1431, 112983, '2008-01-04');
+insert into Pacientes value (13,"alejandro","massobrio","vicente lopez 125","Capital Feder","Buenos Aires",1421, 1129233, '2008-01-06');
+insert into Pacientes value (12,"juan","scatollini","piran 6337","Capital","Buenos Aires",1481, 112934353, '2008-01-07');
+insert into Pacientes value (11,"pedro","iricibar","triunvirato 5584","Kapital Federal","Buenos Aires",1451, 11298399, '2008-01-05');
+select Nombre from Médicos where Especialidad = "Traumatologo" order by Apellido;
+delete from Ingresos where FechadeIngreso > '2019-01-01';
+select Cama from Ingresos where Pacientes_Código = 1;
+update Médicos set Especialidad = "Pediatra" where Código = 5;
+select Nombre, Código from Médicos where Nombre like "a%";

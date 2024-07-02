@@ -1,1 +1,9 @@
 # BaseDeDatosCarpeta
+#Participantes: Banham
+Archivos:
+- Consultas 2 SQL
+  -[ej5](https://github.com/Teo418/BaseDeDatosCarpeta/blob/main/DER%201%205.mwb)
+  -[ej6](https://github.com/Teo418/BaseDeDatosCarpeta/blob/main/DER%201%206%20y%20DER%203%20(Banham-Imbroisi).mwb)
+- Consultas 2 Tablas
+  -[tablaEj5](https://github.com/Teo418/BaseDeDatosCarpeta/blob/main/consultas2(ej5der1).sql)
+  -[tablaEj6](https://github.com/Teo418/BaseDeDatosCarpeta/blob/main/consultas2(ej6der1).sql)

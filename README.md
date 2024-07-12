@@ -13,5 +13,5 @@ Archivos:
   - [Tabla3](https://github.com/Teo418/BaseDeDatosCarpeta/blob/f48e62446fc2eb9322718b2b01a26ccb9e9e6a92/DER%20a%20Tablas/EJERCICIO%203%203.mwb)
   - [Tabla4](https://github.com/Teo418/BaseDeDatosCarpeta/blob/f48e62446fc2eb9322718b2b01a26ccb9e9e6a92/DER%20a%20Tablas/EJERCICIO%204%201.mwb)
   - [Tabla7](https://github.com/Teo418/BaseDeDatosCarpeta/blob/f48e62446fc2eb9322718b2b01a26ccb9e9e6a92/DER%20a%20Tablas/Ejercicio%207.mwb)
-  - [Almacen]()
-  - [Biblioteca]()
+  - [Almacen](https://github.com/Teo418/BaseDeDatosCarpeta/blob/4711977bc7ad29f478a28b84d24fd4ffd201f926/DER%20a%20Tablas/Ejercicio%20almacen.mwb)
+  - [Biblioteca](https://github.com/Teo418/BaseDeDatosCarpeta/blob/f48e62446fc2eb9322718b2b01a26ccb9e9e6a92/DER%20a%20Tablas/BIBLOTECA.mwb)
